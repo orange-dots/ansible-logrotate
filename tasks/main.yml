@@ -1,0 +1,8 @@
+---
+
+- include: install.yml
+  tags: ['system', 'install', 'logrotate', 'logrotate-install'] 
+  
+- include: config.yml
+  tags: ['system', 'config', 'logrotate', 'logrotate-config']
+

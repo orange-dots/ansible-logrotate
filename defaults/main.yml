@@ -1,0 +1,9 @@
+---
+
+# package name (version
+logrotate_packages: logrotate
+
+# script to install
+logrotate_scripts: []
+
+
